@@ -1,0 +1,13 @@
+{
+  "name": "azure-function-poc",
+  "version": "1.0.0",
+  "description": "Azure Function App for POC 36",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start",
+    "build": "echo Build step not required"
+  },
+  "author": "Ayushi",
+  "license": "MIT",
+  "dependencies": {}
+}
